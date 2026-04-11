@@ -1,0 +1,20 @@
+# Runtime outputs - generated automatically, do not commit
+uploads/
+audio/
+mom_outputs/
+whisper_result_*.json
+chunk_*.json
+prompt.txt
+MOM_*.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
