@@ -27,3 +27,4 @@ def transcribe_audio(audio_path: str, output_path: str = "whisper_result.json") 
         json.dump(result, f, ensure_ascii=False, indent=4)
 
     return result
+#

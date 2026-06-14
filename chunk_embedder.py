@@ -114,3 +114,4 @@ def load_chunks(chunk_path: str = "chunk.json") -> list:
     """
     with open(chunk_path, "r") as f:
         return json.load(f)
+#hackathon
